@@ -50,7 +50,7 @@
     "@semantic-release/git": "10.0.1",
     "@semantic-release/npm": "9.0.2",
     "@types/async": "3.2.22",
-    "@types/escape-html": "1.0.2",
+    "@types/escape-html": "1.0.3",
     "@types/hosted-git-info": "3.0.2",
     "@types/jest": "28.1.7",
     "@types/lodash": "4.14.200",
